@@ -264,6 +264,16 @@ body {
   gap: 1rem;
   justify-content: center;
 }
+.footer__social-network svg:hover path {
+  fill: #65e2d9;
+}
+.footer__nav-item a {
+  color: white;
+  text-decoration: none;
+}
+.footer__nav-item a:hover {
+  text-decoration: underline;
+}
 
 .attribution {
   font-size: 0.7rem;
@@ -358,4 +368,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=../styles.c6195257.css.map */
+/*# sourceMappingURL=../styles.6a96375c.css.map */

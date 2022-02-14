@@ -309,6 +309,18 @@ body {
     gap: 1rem;
     justify-content: center;
   }
+
+  &__social-network svg:hover path {
+    fill: $cyan-inside-call-to-action-gradient;
+  }
+
+  &__nav-item a {
+    color: $white-color;
+    text-decoration: none;
+  }
+  &__nav-item a:hover {
+    text-decoration: underline;
+  }
 }
 
 .attribution {
