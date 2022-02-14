@@ -320,7 +320,7 @@ body {
 }
 
 /*Desktop Responsive */
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
   html {
     font-size: 100%;
   }
@@ -375,7 +375,7 @@ body {
     }
   }
   .signup {
-    max-width: 60%;
+    max-width: 60rem;
     margin: auto;
     &__form {
       flex-direction: row;
