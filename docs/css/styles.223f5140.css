@@ -80,7 +80,7 @@ body {
 
 .hero {
   padding: 2rem 0;
-  background: url("/images/bg-curvy-mobile.fb4f7f4a.svg"), #1c2431;
+  background: url("../images/bg-curvy-mobile.fb4f7f4a.svg"), #1c2431;
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: contain;
